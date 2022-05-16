@@ -11,5 +11,4 @@ export default function({ $auth, redirect }) {
     } else {
         return
     }
-
 }
