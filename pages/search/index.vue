@@ -65,7 +65,7 @@
     //meta
     head() {
       return {
-        title: `Pencarian untuk : ${this.$route.query.q} - MI STORE - Distributor Xiaomi Indonesia Resmi`,
+        title: `Pencarian untuk : ${this.$route.query.q} - Soft Store - Pusat Software Berlisensi Resmi`,
       }
     },
 

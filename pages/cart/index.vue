@@ -220,16 +220,16 @@
     //meta
     head() {
       return {
-        title: 'Cart - MI STORE - Distributor Xiaomi Indonesia Resmi',
+        title: 'Cart - Soft Store - Pusat Software Berlisensi Resmi',
         meta: [{
             hid: 'og:title',
             name: 'og:title',
-            content: 'Cart - MI STORE - Distributor Xiaomi Indonesia Resmi'
+            content: 'Cart - Soft Store - Pusat Software Berlisensi Resmi'
           },
           {
             hid: 'og:site_name',
             name: 'og:site_name',
-            content: 'Cart - MI STORE - Distributor Xiaomi Indonesia Resmi'
+            content: 'Cart - Soft Store - Pusat Software Berlisensi Resmi'
           },
           {
             hid: 'og:image',
@@ -239,7 +239,7 @@
           {
             hid: 'description',
             name: 'description',
-            content: 'Cart - Official Toko Online Penjualan Produk Xiaomi'
+            content: 'Cart - Official Toko Online Soft Store'
           },
         ]
       }

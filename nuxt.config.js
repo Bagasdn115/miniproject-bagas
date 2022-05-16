@@ -150,10 +150,28 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL: 'https://ecommerce.appdev.my.id'
+    baseURL: 'http://localhost:8000'
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {
-  }
+  buildModules: [
+    '@nuxtjs/pwa',    // <-- register PWA
+  ],
+  
+  pwa: {
+      meta: {
+          title: 'Soft Store - Software Store Berlisensi Resmi & Bergaransi',
+          author: 'Soft Store'
+      },
+      manifest: {
+          name: 'Soft Store',
+          short_name: 'Soft Store',
+          description: 'Soft Store - Software Store Berlisensi Resmi & Bergaransi',
+          lang: 'en'
+      },
+      icon: {
+          fileName: 'images/logo.png',
+          sizes: [64, 120, 144, 152, 192, 384, 512]
+      }
+  },
 }

@@ -8,14 +8,14 @@ a {
 }
 
 a:hover {
-    color: #ac0800;
+    color: #01ADB5;
 }
 
 .header-main {
     position: relative;
     padding-top: 7px;
     padding-bottom: 7px;
-    background-color: #e64a19
+    background-color: #3A3F47
 }
 
 .logo {
@@ -71,27 +71,27 @@ a:hover {
 }
 
 .search-button {
-    color: #e64a19;
+    color: #3A3F47;
     background-color: #ffffff;
     border-color: #ffffff
 }
 
 .search-button:hover {
-    color: #e64a19;
+    color: #3A3F47;
     background-color: #ffffff;
     border-color: #ffffff
 }
 
 .btn-warning {
     color: #fff;
-    background-color: #e64a19!important;
-    border-color: #e64a19!important;
+    background-color: #3A3F47!important;
+    border-color: #3A3F47!important;
 }
 
 .btn-warning:hover {
     color: #fff;
-    background-color: #e64a19!important;
-    border-color: #e64a19!important
+    background-color: #3A3F47!important;
+    border-color: #3A3F47!important
 }
 
 .btn-warning-2 {
@@ -111,7 +111,7 @@ a:hover {
 }
 
 .border-top-orange {
-    border-top: 3px solid #e64a19!important;
+    border-top: 3px solid #3A3F47!important;
 }
 
 .navbar-main {
@@ -239,14 +239,14 @@ hr.solid {
 .dropdown-item.active, .dropdown-item:active {
     color: #fff;
     text-decoration: none;
-    background-color: #e64a19;
+    background-color: #3A3F47;
     border-radius: .5rem;
 }
 
 .dropdown-item:focus, .dropdown-item:hover {
     color: #fff;
     text-decoration: none;
-    background-color: #e64a19;
+    background-color: #3A3F47;
     border-radius: .5rem;
 }
 
@@ -286,7 +286,7 @@ hr.solid {
 }
 
 .bg-cart {
-    background-color: #e64a19;
+    background-color: #3A3F47;
     color: #fff
 }
 
@@ -335,7 +335,7 @@ hr.solid {
 }
 
 .c-sidebar .c-sidebar-brand, .c-sidebar .c-sidebar-header {
-    background: #e64a19;
+    background: #3A3F47;
 }
 
 .page-item.active .page-link {

@@ -48,16 +48,16 @@ export default {
     //meta
     head() {
       return {
-        title: 'Products - MI STORE - Distributor Xiaomi Indonesia Resmi',
+        title: 'Products - Soft Store - Pusat Software Berlisensi Resmi',
         meta: [{
             hid: 'og:title',
             name: 'og:title',
-            content: 'MI STORE - Distributor Xiaomi Indonesia Resmi'
+            content: 'Soft Store - Pusat Software Berlisensi Resmi'
           },
           {
             hid: 'og:site_name',
             name: 'og:site_name',
-            content: 'Products - MI STORE - Distributor Xiaomi Indonesia Resmi'
+            content: 'Products - Soft Store - Pusat Software Berlisensi Resmi'
           },
           {
             hid: 'og:image',
@@ -67,7 +67,7 @@ export default {
           {
             hid: 'description',
             name: 'description',
-            content: 'Jual Produk Original Xiaomi Indonesia Bergaransi Resmi'
+            content: 'Jual Software Berlisensi Resmi'
           },
         ]
       }
