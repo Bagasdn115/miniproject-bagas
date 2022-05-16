@@ -6,6 +6,7 @@
         <use xlink:href="@/node_modules/@coreui/icons/sprites/free.svg#cil-menu"></use>
       </svg>
     </button>
+
     <button class="c-header-toggler c-class-toggler mfs-3 d-md-down-none" type="button" data-target="#sidebar"
       data-class="c-sidebar-lg-show" responsive="true">
       <svg class="c-icon c-icon-lg">
@@ -44,6 +45,7 @@
           </a>
         </div>
       </li>
+      
     </ul>
   </header>
 </template>
