@@ -4,9 +4,11 @@
     <Header />
     <!-- end header -->
 
+
     <!-- content -->
     <Nuxt />
     <!-- end content -->
+
 
     <!-- footer -->
     <Footer />

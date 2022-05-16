@@ -16,6 +16,7 @@
         <a @click="logout" class="list-group-item text-decoration-none text-dark text-uppercase"
           style="cursor: pointer;"><i class="fa fa-sign-out-alt"></i> Logout
         </a>
+        
       </ul>
     </div>
   </div>

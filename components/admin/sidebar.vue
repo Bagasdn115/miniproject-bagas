@@ -49,6 +49,7 @@
     </li>
 
     <li class="c-sidebar-nav-divider"></li>
+    
   </ul>
 </template>
 

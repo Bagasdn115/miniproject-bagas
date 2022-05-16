@@ -15,9 +15,11 @@
       <a class="carousel-control-prev" href="#mycarousel" role="button" data-slide="prev">
         <div class="banner-icons"> <span class="fa fa-angle-left"></span> </div> <span class="sr-only">Previous</span>
       </a> 
+      
       <a class="carousel-control-next" href="#mycarousel" role="button" data-slide="next">
         <div class="banner-icons"> <span class="fa fa-angle-right"></span> </div> <span class="sr-only">Next</span>
       </a>
+
     </div>
   </div>
 </template>
