@@ -9,7 +9,6 @@ export const state = () => ({
 
     //product
     product: {}
-
 })
 
 //mutations

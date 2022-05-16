@@ -18,7 +18,6 @@ export const actions = {
 
                 //dispatch cart
                 dispatch('web/cart/getCartsData', null, { root: true })
-
             })
 
             //error

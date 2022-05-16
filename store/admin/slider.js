@@ -6,7 +6,6 @@ export const state = () => ({
 
     //page
     page: 1,
-
 })
 
 //mutations

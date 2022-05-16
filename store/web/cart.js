@@ -9,7 +9,6 @@ export const state = () => ({
 
     //cartWeight
     cartWeight: 0
-
 })
 
 //mutations
@@ -35,7 +34,6 @@ export const mutations = {
         //set value state "cartWeight"
         state.cartWeight = payload
     },
-
 }
 
 //actions
@@ -65,9 +63,7 @@ export const actions = {
                 //resolve promise
                 resolve()
             })
-
         })
-
     },
 
     //get cart price
@@ -88,9 +84,7 @@ export const actions = {
                 //resolve promise
                 resolve()
             })
-
         })
-
     },
 
     //get cart weight

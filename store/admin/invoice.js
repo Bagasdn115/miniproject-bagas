@@ -9,7 +9,6 @@ export const state = () => ({
 
     //invoice
     invoice: {}
-
 })
 
 //mutations

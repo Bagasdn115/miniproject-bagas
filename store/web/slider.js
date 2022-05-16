@@ -3,7 +3,6 @@ export const state = () => ({
 
     //sliders
     sliders: []
-
 })
 
 //mutations

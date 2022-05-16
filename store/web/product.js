@@ -62,9 +62,7 @@ export const actions = {
                 //resolve promise
                 resolve()
             })
-
         })
-
     },
 
     //get detail product

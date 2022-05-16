@@ -9,7 +9,6 @@ export const state = () => ({
 
     //user
     user: {}
-
 })
 
 //mutations

@@ -84,14 +84,12 @@ export const actions = {
 
                 //resolve promise
                 resolve()
-
             })
 
             //error
             .catch(error => {
                 reject(error)
             })
-
         })
     },
 

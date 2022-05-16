@@ -22,8 +22,6 @@ export const actions = {
             .catch(error => {
                 reject(error)
             })
-
         })
     },
-
 }

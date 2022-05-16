@@ -9,7 +9,6 @@ export const state = () => ({
 
     //costs ongkir
     costs: []
-
 })
 
 //mutations

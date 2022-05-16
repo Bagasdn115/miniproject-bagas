@@ -6,7 +6,6 @@ export const state = () => ({
 
     //page
     page: 1,
-
 })
 
 //mutations
@@ -25,7 +24,6 @@ export const mutations = {
         //set value state "page"
         state.page = payload
     },
-
 }
 
 //actions
@@ -52,9 +50,6 @@ export const actions = {
                 //resolve promise
                 resolve()
             })
-
         })
-
     },
-
 }
