@@ -30,6 +30,7 @@ export default {
         content: ''
       }
     ],
+    
     link: [{
         rel: 'icon',
         type: 'image/x-icon',
@@ -44,6 +45,7 @@ export default {
         href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css'
       },
     ],
+
     script: [
       { src: '/js/coreui.bundle.min.js' }, 
       { src: 'https://app.sandbox.midtrans.com/snap/snap.js', 'data-client-key': 'SB-Mid-client-bWcHM3-QSyGV2hhw' }, 
